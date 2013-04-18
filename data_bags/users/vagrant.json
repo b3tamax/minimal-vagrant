@@ -1,0 +1,9 @@
+{
+  "id"  : "vagrant",
+  "homesick_castles"  : [
+    { "name"    : "dotfiles.git",
+      "source"  : "git://github.com/soofaloofa/dotfiles.git",
+      "action"  : "update"
+    }
+  ]
+}
